@@ -45,8 +45,10 @@
   - harmonização de vocabulário e ambientes
   - ergonomia de sistemas
 - 🌳 estrutura em árvore: comissões (SC) → grupos de trabalho (WG)
-  - notação tipo caminho de diretório: JTC1/SC-7/WG-6
+  <img width="422" height="303" alt="image" src="https://github.com/user-attachments/assets/7f71ac30-c8d6-449d-b9c4-c530237229f3" />
 - ⭐ SC-7 é a mais importante para software (normas de qualidade de software)
+- Algumas das subcomissões do JTC1 são:
+<img width="710" height="240" alt="image" src="https://github.com/user-attachments/assets/40057b5d-ef0a-495a-8dbd-06846ed55368" />
 
 ---
 
