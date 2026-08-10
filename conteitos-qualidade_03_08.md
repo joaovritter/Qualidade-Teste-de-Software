@@ -5,7 +5,7 @@
 - agregar valor
   - você vai ao cinema para agregar um valor: se divertir, se não agregou valor, não tem qualidade.
 
-![Fluxo de Engenharia de Software](media/image1.png)
+![Fluxo de Engenharia de Software](media/fluxoEgenhariaDeSoftware_03_08.png)
 
 - quanto melhor tiver, mais organizado o processo > mais qualidade
   - norma iso 9001, selo de qualidade
