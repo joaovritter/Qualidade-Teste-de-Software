@@ -57,7 +57,7 @@
 - órgão brasileiro de normas técnicas, fundado em 1940
 - membro fundador da ISO - representa ISO/IEC no Brasil
 - 🌳 estrutura em árvore: Comitês (CB) → Comissões (CE)
-  - ex: CB-01 Qualidade de Software, CB-21 Computadores e processamento de dados
+  - <img width="515" height="220" alt="image" src="https://github.com/user-attachments/assets/64798c2f-8dbb-44c1-ad90-029c2ee1a9e9" />
 - 🙋 trabalho é voluntário (profissionais/empresas entram por conta própria)
 - faz tanto o trabalho normativo quanto a certificação
 
