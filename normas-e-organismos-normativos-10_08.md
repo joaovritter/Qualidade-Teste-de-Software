@@ -64,13 +64,26 @@
 ---
 
 ## ✅ Certificação e adequação
-
 - 🔧 **Adequação**: colocar em prática (total ou parcial) o que a norma propõe
   - pode ser feita pela própria empresa ou com consultoria
 - 🏅 **Certificação**: organismo externo credenciado atesta que a empresa segue o padrão
-- 🛤️ etapas da implementação: definição do escopo → diagnóstico → planejamento/documentação → gestão da transição → correções
-- 🔍 etapas da certificação: pré-auditoria → correções → auditoria → recomendações
+- 🛤️ etapas da implementação do sistema de qualidade:
+<img width="895" height="237" alt="image" src="https://github.com/user-attachments/assets/ca271bed-587d-4bc8-a449-0f6796c39cb1" />
 
+  - **Definição do escopo**: delimita o que vai ser abrangido pelo sistema
+  - **Diagnóstico**: análise do estado atual frente à norma
+  - **Planejamento e documentação**: cronograma e formalização dos processos
+  - **Gestão da transição**: colocar o sistema em prática de fato
+  - **Correções**: ajustes com base nos problemas da transição
+
+- 🔍 etapas da certificação:
+<img width="908" height="246" alt="image" src="https://github.com/user-attachments/assets/519b624b-931b-4516-921b-368ef0a2a9f6" />
+
+  - **Pré-auditoria**: verificação preliminar antes da auditoria oficial
+  - **Relatório de não-conformidade**: aponta o que não atende à norma
+  - **Correções**: ajustes com base no relatório
+  - **Auditoria**: avaliação oficial do organismo certificador
+  - **Recomendações**: parecer final, pode certificar ou apontar nova correção
 ---
 
 ## 🏗️ Etapas na criação de uma norma
@@ -79,7 +92,9 @@
 - feita em conjunto pelos organismos nacionais afiliados à ISO/IEC (no Brasil, a ABNT)
 - ✍️ cada norma tem editor(es)/co-editor(es), trabalho voluntário (sem salário da ISO)
 - editor escreve o esboço inicial → distribuído para análise internacional → recebe sugestões/correções → nova análise
-- 🚦 status evolui: NWI → WD → CD → DIS → FDIS → IS/TR
+- 🚦 A cada etapa a norma muda de status:
+<img width="633" height="295" alt="image" src="https://github.com/user-attachments/assets/6ea66223-e3a6-4ab1-a508-e290a6b23dc0" />
+
 - ⏳ processo pode levar anos, mas é considerado eficiente pela qualidade do resultado
 
 ---
