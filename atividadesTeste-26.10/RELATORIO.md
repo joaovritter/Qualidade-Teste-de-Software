@@ -38,20 +38,7 @@ O 0 e o 100 têm que ser aceitos porque o código usa < e >.
 
 A condição `percentual < 0 || percentual > 100` foi separada em dois nós (3 e 4). Por causa do `||`, se a primeira for verdadeira a segunda nem passa.
 
-```mermaid
-flowchart TD
-    E((início)) --> N1
-    N1{"1: valorCompra < 0"}
-    N1 -- V --> N2["2: throw (valor negativo)"]
-    N1 -- F --> N3{"3: percentual < 0"}
-    N3 -- V --> N5["5: throw (percentual)"]
-    N3 -- F --> N4{"4: percentual > 100"}
-    N4 -- V --> N5
-    N4 -- F --> N6["6: return valor - desconto"]
-    N2 --> S((fim))
-    N5 --> S
-    N6 --> S
-```
+![alt text](gfc-calculadora-desconto.png)
 
 - Nós: 8 (contando início e fim) | Arestas: 10
 - Complexidade ciclomática: V(G) = E - N + 2 = 10 - 8 + 2 = **4** (ou 3 decisões + 1)
