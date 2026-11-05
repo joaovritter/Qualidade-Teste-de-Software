@@ -1,5 +1,4 @@
 public class ContaBancaria {
-
     private double saldo;
 
     public ContaBancaria(double saldoInicial) {
@@ -7,7 +6,6 @@ public class ContaBancaria {
             throw new IllegalArgumentException(
                     "Saldo inicial não pode ser negativo");
         }
-
         saldo = saldoInicial;
     }
 
@@ -16,7 +14,6 @@ public class ContaBancaria {
             throw new IllegalArgumentException(
                     "Valor do depósito deve ser positivo");
         }
-
         saldo += valor;
     }
 
@@ -25,12 +22,10 @@ public class ContaBancaria {
             throw new IllegalArgumentException(
                     "Valor do saque deve ser positivo");
         }
-
         if (valor > saldo) {
             throw new IllegalArgumentException(
                     "Saldo insuficiente");
         }
-
         saldo -= valor;
     }
 
